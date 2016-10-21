@@ -18,4 +18,4 @@ Request like ```http://192.168.1.100:8000/http://www.somewhere.org/path/to/file.
  * Python2
  
 ## TODO
- [ ] Both py2 and py3 support
+ - [ ] Both py2 and py3 support
