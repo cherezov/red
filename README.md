@@ -8,7 +8,7 @@ A sort of workaround is required for such devices.
 
 ## Example
 Let's say __red__ is up and listening on ```192.168.1.100:8000```  
-Request like ```http://192.168.1.100:8000/http://www.somewhere.org/path/to/file.txt``` will download ```file.txt```
+Request like ```http://192.168.1.100:8000/http://www.somewhere.org/path/to/file.txt``` will download ```file.txt``` from ```http://www.somewhere.org/path/to/file.txt```
 
 ## Usage
 ```
