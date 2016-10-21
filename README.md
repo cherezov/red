@@ -3,7 +3,8 @@ Download proxy HTTP server.
 Listen incomming GET requests and redirects them according to path.
 
 ## Motivation
-It is a workaround for some DLNA/UPnP devices which are working within local network only and can't play media from internet directly.
+Some DLNA/UPnP devices (e.g Samsung Smart TVs) are working in bound of local network only and can't play media from internet directly.
+A sort of workaround is required for such devices.
 
 ## Example
 Let's say __red__ is up and listening on ```192.168.1.100:8000```  
