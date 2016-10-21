@@ -13,3 +13,9 @@ Request like ```http://192.168.1.100:8000/http://www.somewhere.org/path/to/file.
 ```
 > red.py [--ip <ip to listen on, default all current interfaces>] [--port <port to listen on, default 8000>]
 ```
+
+## Requires
+ * Python2
+ 
+## TODO
+ [ ] Both py2 and py3 support
